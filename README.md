@@ -9,6 +9,8 @@ $ Dollar Sign
 ( parenthesis
 ) Parenthesis
 [GitHub Pages](https://Mujtaba.github.com/)
+:satisfied:
 [GitHub Pages](https://Hasan.github.com/)
+:confused:
 [GitHub Pages](https://Experiments.github.com/)
 :blush:
