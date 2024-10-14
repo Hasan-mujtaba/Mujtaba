@@ -1,10 +1,13 @@
+
+[CLI commands](docs/cli.md)
+
 ! Excamation Mark
 @ At Symbol
 /# Hash Tag
 $ Dollar Sign
 % Percent Symbol
 ^ Caret Symbol
-& Ampersand
+& Ampersan
 * Asterisk
 ( parenthesis
 ) Parenthesis
