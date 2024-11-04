@@ -1,4 +1,5 @@
-
+[Json test file](docs/tst.json)
+[YAML test file](docs/tst.yml)
 [CLI commands](docs/cli.md)
 
 ! Excamation Mark
